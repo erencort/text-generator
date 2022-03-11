@@ -1,4 +1,4 @@
-# Live: competent-poitras-9c1d5e.netlify.app
+# Live: [Live](https://competent-poitras-9c1d5e.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
